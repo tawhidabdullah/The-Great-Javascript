@@ -1,0 +1,32 @@
+// undefined.name = 'tawhid abdullah'; 
+// console.log(undefined)
+
+
+// SyntaxError
+// ReferenceError
+// TypeErro
+
+
+let x; 
+console.log(x);
+
+
+
+
+// < =: less than
+// > =: greater than
+// <= =: less than eQUAL
+// >= =: GREATER THAN eQUAL
+// == =: DOUBLE EQUAL 
+// != =: NOT EQUAL
+
+// 5 < 10 => true; 
+// 5 > 10 => false; 
+// 109 <= 109 => true;
+// 234 >= 4534 => false; 
+// 34535 == 35353555 => false
+// 34535 != 35353555 => true; 
+
+
+
+console.log('2' === '3') 
